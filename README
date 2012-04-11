@@ -1,0 +1,1 @@
+usage: ruby markdown_to_s3 my.markdown my_bucket my.html
